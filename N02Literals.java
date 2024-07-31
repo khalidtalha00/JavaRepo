@@ -1,6 +1,6 @@
 package CWHbasics;
 
-public class N02_Literals {
+public class N02Literals {
     public static void main(String[] args){
         byte age = 36;
         Long age2=56789934444L;
